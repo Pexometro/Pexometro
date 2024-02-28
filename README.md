@@ -1,7 +1,7 @@
 # Olá, sou o Pedro! 👋
 
 ## Sobre mim
-A concluir a Licenciatura em Engenharia Informática na Universidade do Minho.
+a Software Engineering student at the University of Minho. You can find my latest projects and contributions on this GitHub.
 
 # Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-azevedo-839640273) 
