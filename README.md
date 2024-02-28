@@ -14,7 +14,7 @@ A concluir a Licenciatura em Engenharia Informática na Universidade do Minho.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pexomtetro&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pexometro&show_icons=true&theme=radical)
 
 ## GitHub Stats Card
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=amargaridaspimenta&langs_count=10&layout=compact)
