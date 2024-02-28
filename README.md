@@ -1,7 +1,6 @@
-# Olá, sou o Pedro! 👋
+<h1 align="center">Hello!👋, I'm Pedro</h1>
+<h3 align="center"> a Software Engineering student at the University of Minho. You can find my latest projects and contributions on this GitHub.</h3>
 
-## Sobre mim
-a Software Engineering student at the University of Minho. You can find my latest projects and contributions on this GitHub.
 
 # Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-azevedo-839640273) 
