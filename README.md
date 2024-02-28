@@ -3,6 +3,8 @@
 ## Sobre mim
 A concluir a Licenciatura em Engenharia Informática na Universidade do Minho.
 
+# Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-azevedo-839640273) 
     
 ### Linguagens
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
