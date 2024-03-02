@@ -4,14 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=35&duration=1500&pause=1000&color=22F723&background=FFFFFF00&center=true&vCenter=true&random=false&width=431&lines=Hi+There!%F0%9F%91%8B;I'm+Pedro+Azevedo!" alt="Typing SVG" />
 </a>
 
+</h1> 
 
 <h3 align="center"> a Software Engineering student at the University of Minho. You can find my latest projects and contributions on this GitHub.</h3>
 
-</h1>
-# Connect with me
-
+### Connect with me
 <p align="left">
-  
+
 <a href="https://linkedin.com/in/pedro-azevedo-839640273">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
