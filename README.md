@@ -33,4 +33,4 @@
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 ### Top Languages
-[![Top Langs](  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pexometro&layout=compact&theme=midnight-purple")](https://github.com/Pexometro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pexometro&layout=compact&include_all_commits=true&theme=midnight_purple)](https://github.com/Pexometro)
